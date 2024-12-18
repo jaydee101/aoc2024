@@ -1,4 +1,4 @@
-package de.aoksystem.adventofcode;
+package de.jaydee101.adventofcode;
 
 import java.util.HashMap;
 import java.util.List;
